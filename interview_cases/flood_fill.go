@@ -1,4 +1,4 @@
-package coding
+package interview_cases
 
 func floodFill(image [][]int, sr int, sc int, color int) [][]int {
 	if image[sr][sc] == color {

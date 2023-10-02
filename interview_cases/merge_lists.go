@@ -1,4 +1,4 @@
-package coding
+package interview_cases
 
 // https://leetcode.com/problems/merge-two-sorted-lists/description/
 type ListNode struct {

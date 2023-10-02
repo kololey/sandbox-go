@@ -1,4 +1,4 @@
-package coding
+package interview_cases
 
 //https://leetcode.com/problems/valid-parentheses/description/
 //Given a string s containing just the characters '(', ')', '{', '}', '[' and ']',

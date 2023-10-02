@@ -1,4 +1,4 @@
-package coding
+package interview_cases
 
 import (
 	"context"
